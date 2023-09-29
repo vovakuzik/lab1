@@ -1,4 +1,4 @@
-// Задание 3.11
+
 import java.util.Scanner;
 public class Main {
     private String name;
