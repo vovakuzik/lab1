@@ -30,7 +30,7 @@ class Employee {
     }
 
     public void setMonthlySalary(double monthlySalary) {
-        // Проверка, является ли monthlySalary положительным числом, перед его установкой
+        
         if (monthlySalary > 0) {
             this.monthlySalary = monthlySalary;
         } else {
